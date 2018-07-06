@@ -28,7 +28,7 @@ const styles = {
     paddingTop: 15,
     shadowColor: '#000',
     shadowOpacity: 0.5,
-    elevation: 3,
+    elevation: 2,
     position: 'relative'
   },
   textStyle: {
