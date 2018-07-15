@@ -23,7 +23,7 @@ There are two methods for getting started with this repo.
 For Latest Node.js Package, [Click Here](https://nodejs.org/en/)  
 React Native Cli: `npm i react-native-cli -g`
 
-#### Familiar with Git?
+#### 1. Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
@@ -31,7 +31,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > cd Album-MobileApp
 ```
 
-#### Not Familiar with Git?
+#### 2. Not Familiar with Git?
 Click [here](https://github.com/SanchitB23/Blog/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 #### After getting the files 
@@ -43,3 +43,8 @@ Click [here](https://github.com/SanchitB23/Blog/archive/master.zip) then downloa
 > npm install
 > react-native run-android
 ```
+
+---
+
+### Screenshots:
+![Albums1](http://oi63.tinypic.com/2qxu8w8.jpg)
